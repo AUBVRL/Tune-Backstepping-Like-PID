@@ -13,9 +13,10 @@ ki = gamma k1. <br />
 (to be updated soon)
 
 <p align="center">
-  <img src="https://github.com/KouraniMEKA/Primitive-ML-UAV/blob/main/media/Tethered-UAV-Buoy.JPG" width="653" height="333" >
+  <img src="https://github.com/KouraniMEKA/Tune-Backstepping-Like-PID/blob/main/figures/k12_from_kpd.JPG" width="640" height="360" >
   <br />
-  Planar model of a quadrotor UAV pulling a floating buoy through a tether [1].
+  Coupled k_1 and k_2 for specific k_P and k_D values: (a) at constant k_D and (b) at constant k P . The red and the green regions represent the sets
+of all feasible k_1 and k_2 combinations respectively. [1](https://www.researchgate.net/publication/350621101_Leveraging_PID_Gain_Selection_Towards_Adaptive_Backstepping_Control_for_a_Class_of_Second-Order_Systems).
 </p>
 
 
